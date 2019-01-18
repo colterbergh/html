@@ -1,0 +1,64 @@
+[09-Dec-2018 13:13:43 America/Denver] PHP Notice:  Undefined index: do in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 18
+[09-Dec-2018 13:13:43 America/Denver] PHP Notice:  Undefined index: id in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 19
+[09-Dec-2018 13:13:43 America/Denver] PHP Notice:  Undefined index: userid in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 20
+[09-Dec-2018 13:13:43 America/Denver] PHP Notice:  Undefined index: pin in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 21
+[09-Dec-2018 13:13:43 America/Denver] PHP Notice:  Undefined index: note in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 22
+[09-Dec-2018 13:13:43 America/Denver] PHP Notice:  Undefined index: email in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 23
+[09-Dec-2018 13:13:43 America/Denver] PHP Notice:  Undefined index: pass in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 24
+[09-Dec-2018 13:13:43 America/Denver] PHP Notice:  Undefined index: time in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 25
+[09-Dec-2018 13:13:43 America/Denver] PHP Notice:  Undefined index: count in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 26
+[09-Dec-2018 13:13:43 America/Denver] PHP Notice:  Undefined index: origTime in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 27
+[09-Dec-2018 13:13:46 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/db.php on line 2
+[09-Dec-2018 13:13:46 America/Denver] PHP Notice:  Undefined index: do in /home2/goliathv/public_html/keptcity/apps/timeclock/admin/dash/employee.php on line 9
+[09-Dec-2018 13:14:03 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/db.php on line 2
+[09-Dec-2018 13:14:11 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/db.php on line 2
+[09-Dec-2018 13:14:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/db.php on line 2
+[09-Dec-2018 13:14:13 America/Denver] PHP Notice:  Undefined index: do in /home2/goliathv/public_html/keptcity/apps/timeclock/admin/dash/employee.php on line 9
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: do in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 18
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: id in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 19
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: userid in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 20
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: pin in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 21
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: note in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 22
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: email in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 23
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: pass in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 24
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: time in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 25
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: count in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 26
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: origTime in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 27
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: beginDate in /home2/goliathv/public_html/keptcity/apps/timeclock/admin/dash/reports.php on line 42
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: endDate in /home2/goliathv/public_html/keptcity/apps/timeclock/admin/dash/reports.php on line 43
+[09-Dec-2018 13:14:14 America/Denver] PHP Notice:  Undefined index: submit in /home2/goliathv/public_html/keptcity/apps/timeclock/admin/dash/reports.php on line 44
+[12-Dec-2018 19:13:48 America/Denver] PHP Notice:  Undefined index: do in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 18
+[12-Dec-2018 19:13:48 America/Denver] PHP Notice:  Undefined index: id in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 19
+[12-Dec-2018 19:13:48 America/Denver] PHP Notice:  Undefined index: userid in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 20
+[12-Dec-2018 19:13:48 America/Denver] PHP Notice:  Undefined index: pin in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 21
+[12-Dec-2018 19:13:48 America/Denver] PHP Notice:  Undefined index: note in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 22
+[12-Dec-2018 19:13:48 America/Denver] PHP Notice:  Undefined index: email in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 23
+[12-Dec-2018 19:13:48 America/Denver] PHP Notice:  Undefined index: pass in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 24
+[12-Dec-2018 19:13:48 America/Denver] PHP Notice:  Undefined index: time in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 25
+[12-Dec-2018 19:13:48 America/Denver] PHP Notice:  Undefined index: count in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 26
+[12-Dec-2018 19:13:48 America/Denver] PHP Notice:  Undefined index: origTime in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 27
+[12-Dec-2018 19:13:50 America/Denver] PHP Notice:  Undefined index: do in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 18
+[12-Dec-2018 19:13:50 America/Denver] PHP Notice:  Undefined index: id in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 19
+[12-Dec-2018 19:13:50 America/Denver] PHP Notice:  Undefined index: userid in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 20
+[12-Dec-2018 19:13:50 America/Denver] PHP Notice:  Undefined index: pin in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 21
+[12-Dec-2018 19:13:50 America/Denver] PHP Notice:  Undefined index: note in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 22
+[12-Dec-2018 19:13:50 America/Denver] PHP Notice:  Undefined index: email in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 23
+[12-Dec-2018 19:13:50 America/Denver] PHP Notice:  Undefined index: pass in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 24
+[12-Dec-2018 19:13:50 America/Denver] PHP Notice:  Undefined index: time in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 25
+[12-Dec-2018 19:13:50 America/Denver] PHP Notice:  Undefined index: count in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 26
+[12-Dec-2018 19:13:50 America/Denver] PHP Notice:  Undefined index: origTime in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 27
+[12-Dec-2018 19:13:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/db.php on line 2
+[12-Dec-2018 19:13:54 America/Denver] PHP Notice:  Undefined index: do in /home2/goliathv/public_html/keptcity/apps/timeclock/admin/dash/employee.php on line 9
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: do in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 18
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: id in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 19
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: userid in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 20
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: pin in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 21
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: note in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 22
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: email in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 23
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: pass in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 24
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: time in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 25
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: count in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 26
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: origTime in /home2/goliathv/public_html/keptcity/apps/timeclock/ajax/action.php on line 27
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: beginDate in /home2/goliathv/public_html/keptcity/apps/timeclock/admin/dash/reports.php on line 42
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: endDate in /home2/goliathv/public_html/keptcity/apps/timeclock/admin/dash/reports.php on line 43
+[12-Dec-2018 19:13:56 America/Denver] PHP Notice:  Undefined index: submit in /home2/goliathv/public_html/keptcity/apps/timeclock/admin/dash/reports.php on line 44
